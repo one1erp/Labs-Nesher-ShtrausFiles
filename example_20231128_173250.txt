@@ -1,0 +1,8 @@
+Begin SDG
+"external_ref","Workflow_Name","DESCRIPTION","U_SDG_CLIENT","U_SAMPLED_BY"
+Line 3
+End SDG
+Begin Sample
+"external_ref","Workflow_name","Study_ref","sdg_ref","PRODUCT_ID","DESCRIPTION"
+Line 4
+End Sample

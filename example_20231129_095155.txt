@@ -1,0 +1,12 @@
+Begin SDG
+"external_ref","Workflow_Name","DESCRIPTION","U_SDG_CLIENT","U_SAMPLED_BY"
+"000209136400","NESHER SDG FOOD","by instrument","ביוקר קבוע","101"
+End SDG
+Begin Sample
+"external_ref","Workflow_name","Study_ref","sdg_ref","PRODUCT_ID","DESCRIPTION"
+"000209136400","Food Sample Workflow","000209136400","1223","ùå÷åìéú 850 âøí ëùìô áã"ö 2023"
+End Sample
+Begin Sample
+"external_ref","Workflow_name","Study_ref","sdg_ref","PRODUCT_ID","DESCRIPTION"
+"000209136400","Food Sample Workflow","000209136400","1223","ùå÷åìéú 850 âøí ëùìô áã"ö 2023"
+End Sample

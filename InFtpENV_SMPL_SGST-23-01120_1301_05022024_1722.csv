@@ -1,0 +1,4 @@
+﻿"Sample No.","Characteristic","Characteristic desc.","COA approval time stamp","Plant","Material desc.","Quantitative result","Ranged quantitative result","Separated results","Qualitative results","Catalog","Concatinated"
+"SGST-23-01120","50000258","Enterobacteriaceae swab","09/11/2023 16:29","1301","תעלות ניקוז - EX-5 Zone 2","10","<","1","","","<10"
+"SGST-23-01120","50000235","Salmonella .ISO","09/11/2023 16:29","1301","תעלות ניקוז - EX-5 Zone 2","","","1","1","Not Detected","1"
+"SGST-23-01120","50000235","Salmonella .ISO","09/11/2023 16:29","1301","תעלות ניקוז - EX-5 Zone 2","","","2","2","Detected","2"

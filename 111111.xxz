@@ -1,0 +1,14 @@
+Begin SDG
+"external_ref","Workflow_Name","DESCRIPTION","U_SDG_CLIENT","U_SAMPLED_BY"
+"000204445","NESHER SDG FOOD","by instrument","1101","101"
+End SDG
+Begin Sample
+"external_ref","Workflow_name","Study_ref","sdg_ref","PRODUCT_ID","DESCRIPTION"
+"000204445","Food Sample Workflow",,"000204445","1223","שוקולית 850 גרם כשלפ בד"צ"
+End Sample
+Begin Aliquot
+"external_ref","Workflow_name","Sample_ref","Description","U_TEST_TEMPLATE_EXTENDED"
+"000204445-50000088","MOULDS",000204445,"000204445","363"
+"000204445-50000087","YEAST",000204445,"000204445","362"
+"000204445-50000086","Total Count (food)",000204445,"000204445","364"
+End Aliquot
